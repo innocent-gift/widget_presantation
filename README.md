@@ -1,5 +1,5 @@
 # supermarket_widget
-
+the widget works to show the items in the suppermarket 
 A new Flutter project.
 
 ## Getting Started
